@@ -7,5 +7,7 @@ var x2= 3;
 var y1= 3;
 var y2= 2;
 
-var d= math.sqrt (math.pow(x2 - x1), 2) 
-+ (math.pow( (y2 - y1), 2) )
+var d= Math.sqrt(Math.pow(x2 - x1), 2) 
++ (Math.pow( (y2 - y1), 2) )
+
+console.log(d)

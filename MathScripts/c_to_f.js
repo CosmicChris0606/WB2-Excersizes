@@ -1,6 +1,9 @@
 "use strict"
 
-var F= farenheit;
+
+var f= 100;
 var cel= (f - 32) * (5 / 9);
 
-var f= (cel * 9/5 ) + 32;
+var farenheit= (cel * 9/5 ) + 32;
+
+console.log(cel)
